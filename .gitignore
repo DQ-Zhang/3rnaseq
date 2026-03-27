@@ -1,0 +1,15 @@
+#folders
+Datasets/
+genome/
+GSVA/
+input/
+legacy scripts/
+localdata/
+output/
+#files
+3RNA_analyzer_Low-Stringency.R
+BuildIndex.sh
+manual_star.sh
+runv3.sh
+troubleshoot.txt
+usage.txt

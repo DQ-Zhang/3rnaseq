@@ -1,0 +1,19 @@
+name: 3rnaseq
+channels:
+  - conda-forge
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+dependencies:
+  - python=3
+  - idemux
+  - cutadapt
+  - star
+  - fastqc
+  - subread
+  - bioconda::seqtk
+  - r-base=4.3.3
+  - r-ggplot2
+  - r-systemfonts
+  - r-shadowtext
+  - r-svglite
+prefix: /home/dingqi/miniconda3/envs/3rnaseq
